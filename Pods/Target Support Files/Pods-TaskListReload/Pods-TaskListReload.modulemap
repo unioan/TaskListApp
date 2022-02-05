@@ -1,0 +1,6 @@
+framework module Pods_TaskListReload {
+  umbrella header "Pods-TaskListReload-umbrella.h"
+
+  export *
+  module * { export * }
+}
