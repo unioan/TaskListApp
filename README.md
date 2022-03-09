@@ -13,14 +13,10 @@ The app helps users to manage daily tasks. You can create, edit, delete or mark 
 The screen consists of four UI elements: container controller, two buttons, collection view and table view. 
 
 ***Container controller***: It contains home and menu (sidebar) controllers. 
-
 ***Menu & Create buttons***: When "menu" button is tapped sidebar appears. When "+" button is tapped "create task" screen appears. 
-
 ***Collection view***: There are 4 sections that divide all tasks into several categories. Each category is represented by an icon and title referring to the type of the task. 
-
 ***Table view***: There is a list of tasks sorted by date of creation where you can see the title and icon corresponding to its type.   
-!
-[HomeScreen preview](https://user-images.githubusercontent.com/76248402/157547812-5a41b1db-1f8b-4e2e-a1a1-68607056f4c2.gif)
+![HomeScreen preview](https://user-images.githubusercontent.com/76248402/157547812-5a41b1db-1f8b-4e2e-a1a1-68607056f4c2.gif)
 
 ## 2."Create task" screen
 The screen consists of a text field, text view and two switches. 
