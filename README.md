@@ -45,5 +45,5 @@ The screen consists of several labels and three buttons.
 
 ***Delete and Compleated buttons***: Deletes task or removes it from home screen.
 
-![EditTaskScreen](https://user-images.githubusercontent.com/76248402/157551372-0d67c4ec-8314-433d-8a40-57a58bc450df.gif)
+![EditTaskScreen](https://user-images.githubusercontent.com/76248402/157553225-cee2c345-439d-4667-8a6e-0bd4a04558e4.gif)
 
