@@ -21,7 +21,7 @@ The screen consists of four UI elements: container controller, two buttons, coll
 
 ***Table view***: There is a list of tasks sorted by date of creation where you can see the title and icon corresponding to its type. 
 
-![CreateTaskScreen](https://user-images.githubusercontent.com/76248402/157550607-acfcc879-96b6-4824-bf1b-1f1fabc4aa98.gif)
+![HomeTaskScreen](https://user-images.githubusercontent.com/76248402/157552337-f40232e0-1f38-40a0-bc41-f7363f518849.gif)
 
 
 ## 2."Create task" screen
@@ -33,7 +33,7 @@ The screen consists of a text field, text view and two switches.
 
 ***Switch***: Sets priority and urgency of the task. 
 
-![CreateTaskScreen](https://user-images.githubusercontent.com/76248402/157550286-64b00158-2afa-48d4-9260-ff529eff2969.gif)
+![CreateTaskScreen](https://user-images.githubusercontent.com/76248402/157552640-4d7de1d0-d49a-4480-90cf-bc5338fd2cdc.gif)
 
 
 ## 3."Edit task" screen
