@@ -32,6 +32,7 @@ The screen consists of a text field, text view and two switches.
 ***Text view***: Takes a task description. 
 
 ***Switch***: Sets priority and urgency of the task. 
+
 ![CreateTaskScreen](https://user-images.githubusercontent.com/76248402/157550286-64b00158-2afa-48d4-9260-ff529eff2969.gif)
 
 
