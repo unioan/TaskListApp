@@ -33,7 +33,7 @@ The screen consists of a text field, text view and two switches.
 
 ***Switch***: Sets priority and urgency of the task. 
 
-![CreateTaskScreen](https://user-images.githubusercontent.com/76248402/157552640-4d7de1d0-d49a-4480-90cf-bc5338fd2cdc.gif)
+![CreateTaskScreen](https://user-images.githubusercontent.com/76248402/157553900-5d0457fa-bf8b-4312-b8c3-b64ae20cd984.gif)
 
 
 ## 3."Edit task" screen
