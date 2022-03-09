@@ -20,6 +20,7 @@ The screen consists of four UI elements: container controller, two buttons, coll
 ***Collection view***: There are 4 sections that divide all tasks into several categories. Each category is represented by an icon and title referring to the type of the task. 
 
 ***Table view***: There is a list of tasks sorted by date of creation where you can see the title and icon corresponding to its type. 
+
 ![CreateTaskScreen](https://user-images.githubusercontent.com/76248402/157550607-acfcc879-96b6-4824-bf1b-1f1fabc4aa98.gif)
 
 
@@ -41,5 +42,7 @@ The screen consists of several labels and three buttons.
 
 ***Labels***: Labels provide information about task type, title and description.    
 
-***Delete and Compleated buttons***: Deletes task or removes it from home screen. 
-![EditTaskScreen](https://user-images.githubusercontent.com/76248402/157534886-22d800cc-8a87-4f1e-80de-db644682341d.gif)
+***Delete and Compleated buttons***: Deletes task or removes it from home screen.
+
+![EditTaskScreen](https://user-images.githubusercontent.com/76248402/157551372-0d67c4ec-8314-433d-8a40-57a58bc450df.gif)
+
